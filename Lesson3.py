@@ -1,10 +1,5 @@
 from cgi import print_environ
 
 print("Deleted the lines")
-print("CONFLICT")
-print("CONFLICT")
-print("CONFLICT")
-print("CONFLICT")
-print("CONFLICT")
-print("CONFLICT")
-print("CONFLICT")
+for i in range(8):
+    print("work?")
