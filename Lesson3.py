@@ -1,4 +1,4 @@
 from cgi import print_environ
 
-print("Deleted the lines")
+print("Deleted and edited the lines")
 print("CONFLICT")
